@@ -29,8 +29,8 @@ description: 本文是简介，介绍本书的一些基本情况
 
 唯二联系方式：
 
-* 推特: https://twitter.com/touzifang
-* 油管：https://youtube.com/@touzifang
+* 推特: [https://twitter.com/touzifang](https://twitter.com/touzifang)
+* 油管：[https://youtube.com/@touzifang](https://youtube.com/@touzifang)
 
 ### 常见问题 FAQ
 
