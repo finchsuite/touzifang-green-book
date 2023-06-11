@@ -14,7 +14,7 @@ description: 本文是简介，介绍本书的一些基本情况
 
 ### 关于书名
 
-* 英文名: the Complete Guide to Real Estate Investment in the United States
+* 英文名: USA Real Estate Investment Green Book
 * 中文名: 美国房地产投资绿宝书
 * 为什么叫绿宝书？
   * 美元是绿色的
