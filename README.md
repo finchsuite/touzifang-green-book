@@ -4,15 +4,15 @@ description: 本文是简介，介绍本书的一些基本情况
 
 # 美国房地产投资绿宝书
 
-## 本书不构成任何投资建议！
+## <mark style="color:red;">本书不构成任何投资建议！</mark>
 
-## 本书不构成任何投资建议！
+## <mark style="color:red;">本书不构成任何投资建议！</mark>
 
-## 本书不构成任何投资建议！
+## <mark style="color:red;">本书不构成任何投资建议！</mark>
 
 
 
-### 关于书名
+## 关于书名
 
 * 英文名: the Complete Guide to Real Estate Investment in the United States
 * 中文名: 美国房地产投资绿宝书
@@ -21,16 +21,16 @@ description: 本文是简介，介绍本书的一些基本情况
   * 美国股市是绿涨红跌
   * 既然是投资美国房地产，还是入乡随俗吧，用绿色代表财富比较好
 
-### 关于作者
+## 关于作者
 
 美国加州程序员，对税法感兴趣，对投资房地产感兴趣，考了IRS Enrolled Agent证书(美国注册税务师)。希望能尽量详尽的介绍美国房地产投资的来龙去脉；也会结合自身经验，分享在美国投资房地产的点点滴滴，以供大家参考。
 
-唯二联系方式：
+#### 唯二联系方式：
 
 * 推特: [https://twitter.com/touzifang](https://twitter.com/touzifang)
 * 油管：[https://youtube.com/@touzifang](https://youtube.com/@touzifang)
 
-### 常见问题 FAQ
+## 常见问题 FAQ
 
 #### 链接打不开咋办？
 
